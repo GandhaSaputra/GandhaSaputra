@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer · Mobile & Web** with 4+ years of experience building production-grade mobile & web applications across **fintech, banking, and social platforms**. Currently contributing to **Qitta** (formerly BRImo) — one of Indonesia's largest banking super apps — at **PT Bank Rakyat Indonesia**.
+I'm a **Software Engineer · Mobile & Web** with 4+ years of experience building production-grade mobile & web applications across **fintech, banking, and social platforms**. Currently contributing to **Qitta** (reskin of BRImo) — one of Indonesia's largest banking super apps — at **PT Bank Rakyat Indonesia**.
  
 I care deeply about performance, clean architecture, and schema-driven development. Currently deepening my backend skills with **Node.js** and **Go** to build full-stack products end-to-end.
  
